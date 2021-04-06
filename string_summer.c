@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 
-int main(void) {
+int main(void) 
+{
     /* declaring variables */
     char string[200];
     int length,i,sum;
@@ -12,7 +13,8 @@ int main(void) {
     
     /* Calculating sum */
     length = strlen(string); /* strlen is out of loop for efficiency purposes */
-    for (i=0; i < length; i++){
+    for (i=0; i < length; i++)
+    {   
         sum += string[i];
     }
     printf("\nThe sum of the string is: %d\n",sum);
