@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Used sources:  
   
 https://www.ascii-art-generator.org/  
@@ -39,4 +38,4 @@ Code a program that takes the value of a long int and rotates the bit values so 
 
 Project 10  
 Write a program with a function that converts a string of digits into an integer value. Do not use the strtol() function or any other standard C library function. Write your own!
->>>>>>> 75a13067f4a6fc7ede69f86c9a3872dd66a17949
+
