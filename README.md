@@ -6,10 +6,9 @@ https://www.ascii-art-generator.org/
 https://www.madeintext.com/text-to-ascii/  
   
 Project3 is still under construction.  
-<<<<<<< HEAD
+
 =======
-=======
->>>>>>> 5f87ff1e38cb56df4bc331aea3c61914b7d0044a
+
 By Dan Gookin
 
 If you’re just beginning with C programming, test your skills with these projects. Answers for these exercises are not provided on the website. It’s up to you to complete them, using your knowledge of C. Good luck!
@@ -43,7 +42,7 @@ Code a program that takes the value of a long int and rotates the bit values so 
 
 Project 10  
 Write a program with a function that converts a string of digits into an integer value. Do not use the strtol() function or any other standard C library function. Write your own!
-<<<<<<< HEAD
+
 =======
 
->>>>>>> 5f87ff1e38cb56df4bc331aea3c61914b7d0044a
+
