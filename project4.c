@@ -40,7 +40,6 @@ int main(void)
 			}
 			
 		}
-		/*printf("%d %c\n",index_arr[i],word_array[index_arr[i]]);*/
 	}
 	return 0;
 }
