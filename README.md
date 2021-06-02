@@ -27,7 +27,24 @@ Create a program that reads words from a text file and reassembles the words in 
 
 [-] Project 5  
 Create a program that simulates a deck of cards. Draw five cards from the deck.
+```
+-----Pulling 5 random cards from the deck!-----
 
+A card pulled from the deck!  
+The pulled card is black clubs 40  
+  
+A card pulled from the deck!  
+The pulled card is red hearts 23  
+  
+A card pulled from the deck!  
+The pulled card is black spades 38  
+  
+A card pulled from the deck!  
+The pulled card is black clubs 44  
+  
+A card pulled from the deck!  
+The pulled card is red diamonds 2  
+```
 [-] Project 6  
 Create a program that reads standard input and sends to standard output the hexadecimal values of the characters input, separated by spaces.
 
